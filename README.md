@@ -9,8 +9,8 @@ Ce projet PHP permet de **suivre et estimer le kilométrage** des véhicules en 
 ✅ **Affichage des relevés sous forme de tableau**
 ✅ **Visualisation graphique de l'évolution du kilométrage**
 
-## 📞 Notre Échange
-L'idée est née d'une discussion où l'objectif était d'obtenir **une estimation fiable du kilométrage d'un véhicule** en fonction des relevés existants.
+## 📞 Mon échange avec ChatGPT
+J'ai demandé à chatGPT de me générer le code dont l'objectif était d'obtenir **une estimation fiable du kilométrage d'un véhicule** en fonction des relevés existants.
 
 L'évolution du projet :
 1. **Calcul du kilométrage estimé** en fonction des relevés (interpolation linéaire)
