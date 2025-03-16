@@ -25,6 +25,8 @@ L'évolution du projet :
 │── 📜 README.md          # Documentation
 ```
 
+<img src="image.png" alt="Aperçu du projet" width="600">
+
 ## 🛠 Installation
 ### 1️⃣ Base de données
 Créer une base de données `gestion_kilometrage` et exécuter le script `db.sql`.
